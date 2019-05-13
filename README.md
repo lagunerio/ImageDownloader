@@ -1,7 +1,7 @@
 # ImageDownloader
 
 
-##Basics
+## Basics
 
 This program download image file from urls in csv file.
 Before execute, the file 'imageurls.csv' must be in the same directory of the .exe file.
@@ -23,7 +23,7 @@ When the program success, two files 'downloaded.csv' and 'log.txt' and a folder 
   Log file will also be created.
 
 
-##Description
+## Description
 
 This program is for windows.
 1. Download 'py2exe' from web.
