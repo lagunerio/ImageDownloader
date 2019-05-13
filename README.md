@@ -27,5 +27,5 @@ Description
 This program is for windows.
 1. Download 'py2exe' from web.
 2. Put this command in windows cmd command line.
-  > python setup.py py2exe
+    > python setup.py py2exe
 3. Go to 'dist' and find 'ImageDownloader' exe file and run.
